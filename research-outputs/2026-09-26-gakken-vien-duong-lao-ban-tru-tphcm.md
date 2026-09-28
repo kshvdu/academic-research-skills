@@ -1,7 +1,7 @@
 # Mô hình "Viện dưỡng lão bán trú" tại TP.HCM và các hướng hợp tác của Gakken với doanh nghiệp bất động sản cho phân khúc thu nhập cao
 
 **Loại tài liệu:** Báo cáo nghiên cứu chuyên sâu (bản khuyến nghị chiến lược)
-**Ngày:** 26/09/2026 (bản 2: cập nhật theo bài báo Thanh Niên gốc và hồ sơ doanh nghiệp *Gakken Group Company Profile* do người dùng cung cấp)
+**Ngày:** 26/09/2026. Bản 3 (28/09/2026) bổ sung hai mô hình tham khảo: Palme Dor Gakuenmae và Oasis Retirement Resort. Bản 2 đã cập nhật theo bài báo Thanh Niên gốc và hồ sơ doanh nghiệp *Gakken Group Company Profile* do người dùng cung cấp.
 **Phạm vi:** TP.HCM (địa giới sau sáp nhập ngày 01/07/2025, gồm cả Bình Dương và Bà Rịa – Vũng Tàu cũ)
 
 ---
@@ -27,6 +27,10 @@
    - **(A) "Gakken Memory & Learning Club":** câu lạc bộ ban ngày cao cấp chuyên phòng ngừa và chăm sóc sa sút trí tuệ, đặt trong khu đô thị hạng sang;
    - **(B) "Cocofump Town Hub":** tổ hợp nhiều thế hệ, nhân bản mô hình Cocofump Kawasaki-Takatsu;
    - **(C) "Kinkyo Residence":** căn hộ cho cha mẹ ở gần con (近居, "ở gần"), đạt chuẩn "sẵn sàng chăm sóc", đi kèm gói dịch vụ do Gakken vận hành.
+6. **Hai mô hình tham khảo (mục 5).**
+   - **Palme Dor Gakuenmae (Nara):** 126 phòng riêng. Công thức là *Residence + Hospitality + Care + Medical + Lifestyle*, trong đó chăm sóc được tính riêng theo care plan của từng người.
+   - **Oasis Retirement Resort (Cape Town):** 375 căn trong khu đô thị tổng hợp Century City, có trung tâm chăm sóc ngay trong khu, bán hết trước khi tháp cuối hoàn thành.
+   - **Tác động:** hai mô hình củng cố định vị "ngôi nhà mới, không phải cơ sở chăm sóc" và định nghĩa lại hướng E thành *senior residence tích hợp trong khu đô thị tổng hợp*, là bậc cao nhất của chuỗi A → D → E.
 
 ---
 
@@ -38,7 +42,7 @@
 - **Nguồn thứ cấp:** báo chí Việt Nam, thông cáo của Vingroup và Nam Long, báo cáo của Knight Frank, thông cáo của MCS (tìm kiếm web ngày 26/09/2026).
 - **Giới hạn:**
   - Một vài con số trong hồ sơ [G] có mốc thời gian khác nhau. Ví dụ, trang 6 ghi 359 nhà nhóm, còn trang 8 ghi 319 nhà nhóm với 6.083 phòng tính đến 04/2024. Báo cáo dùng số mới hơn và ghi rõ mốc.
-  - Các con số tài chính minh họa ở mục 6 là **giả định**.
+  - Các con số tài chính minh họa ở mục 7 là **giả định**.
   - Bằng chứng về nhu cầu tại Việt Nam chủ yếu là tin tức, chưa có khảo sát định lượng. Vì vậy, lộ trình dành riêng Giai đoạn 0 cho nghiên cứu sơ cấp.
   - Mục đánh dấu **[cần xác minh]** là thông tin chưa có nguồn kiểm chứng.
 
@@ -156,7 +160,58 @@ Tổng cộng MCS có 8 tòa nhà với 1.035 giường tại Trung Quốc. Doan
 
 ---
 
-## 5. Bảy hướng hợp tác đề xuất
+## 5. Hai mô hình tham khảo: Palme Dor Gakuenmae (Nhật Bản) và Oasis Retirement Resort (Nam Phi)
+
+Hai mô hình dưới đây là **nhà ở cao cấp cho người cao tuổi có tích hợp chăm sóc**, không phải dịch vụ bán trú. Chúng hữu ích cho Gakken ở hai điểm:
+- chúng cho thấy phân khúc thu nhập cao sẵn lòng trả tiền cho những gì;
+- chúng minh họa cách chủ đầu tư bất động sản và nhà vận hành chăm sóc chia vai trò.
+
+Cả hai **không phải cơ sở của Gakken**.
+
+### 5.1 Palme Dor Gakuenmae (Nara, Nhật Bản) [P]
+
+| Thành phần | Nội dung |
+|---|---|
+| Loại hình | 住宅型有料老人ホーム: nhà ở có thu phí cho người cao tuổi, dịch vụ chăm sóc mua riêng. Nhà vận hành là Kuka Medical (y tế, dược phẩm, nhà thuốc) |
+| Quy mô | 4 tòa, **126 phòng riêng**, từ 1R đến 2LDK, có khu riêng cho người cần chăm sóc |
+| Khách hàng | Từ 65 tuổi. Nhận cả người còn tự lập lẫn người cần hỗ trợ (要支援) hoặc cần chăm sóc (要介護), nên cư dân ít phải chuyển cơ sở khi sức khỏe thay đổi |
+| Hospitality | Nhà hàng, café, sảnh, vườn, phòng chiếu phim, karaoke, phòng tắm lớn, phòng cho khách thăm; kiến trúc theo phong cách miền Nam nước Pháp |
+| Ăn uống | 3 bữa/ngày, thực đơn do chuyên gia dinh dưỡng có chứng chỉ quản lý. Giá ¥300/¥400/¥500 mỗi bữa, khoảng **¥36.000/tháng** chưa thuế |
+| Chăm sóc | **Không gộp vào tiền phòng.** Care manager lập kế hoạch chăm sóc (care plan) cho từng người. Trung tâm chăm sóc tại nhà Sowan đặt ngay trong khuôn viên cung cấp dịch vụ và tính phí theo mức sử dụng thực tế. Có nhân viên trực 24 giờ |
+| Y tế | Kết nối với phòng khám Gakuenmae và nhà thuốc Asunaro. Không phải bệnh viện; khi cần điều trị sâu thì chuyển viện |
+| Lifestyle | Khoảng **240 loại sự kiện mỗi năm**: cắm hoa, yoga, hòa nhạc piano, sự kiện ẩm thực, nghi lễ mừng sinh nhật |
+| Doanh thu | 5 dòng: (1) tiền vào ở ban đầu (入居一時金) hoặc trả theo tháng; (2) phí quản lý; (3) ăn uống; (4) chăm sóc theo care plan; (5) dịch vụ tùy chọn |
+
+Công thức của mô hình: **Residence + Hospitality + Care + Medical + Lifestyle**. Thông điệp định vị: "không phải cơ sở chăm sóc, mà là một ngôi nhà mới".
+
+### 5.2 Oasis Retirement Resort (Century City, Cape Town, Nam Phi) [O]
+
+- **Vị trí.** Nằm trong **khu đô thị tổng hợp Century City**, trong vành đai an ninh chung và sát một trung tâm thương mại lớn. Dự án do Rabie Property Developers phát triển.
+- **Quy mô và kết quả bán hàng.** 6 tháp cao tầng với **375 căn hộ**, bán hết **6 tháng trước khi tháp cuối cùng hoàn thành**.
+- **Tiện ích.**
+  - clubhouse, gym, hồ bơi nước nóng trong nhà, sauna, phòng yoga và massage;
+  - hội trường giải trí 200 chỗ, nhà hàng, café, thư viện;
+  - vườn có suối và hồ cá;
+  - toàn khu không có bậc thềm, trừ cầu thang thoát hiểm.
+- **Chăm sóc.** Một **trung tâm chăm sóc** (care centre) có khu cho người sức khỏe yếu (frail care) và điều dưỡng trực hằng ngày. Cư dân mua thêm được các dịch vụ chăm sóc, lễ tân, đưa đón, dọn dẹp.
+- **Ý nghĩa.** Đây là mô hình **do chủ đầu tư dẫn dắt**: chủ đầu tư thu hồi vốn bằng cách bán căn hộ, còn trung tâm chăm sóc và tiện ích là yếu tố giúp căn hộ bán nhanh và được giá.
+
+### 5.3 Bài học cho Gakken và chủ đầu tư TP.HCM
+
+| Bài học | Palme Dor | Oasis | Áp dụng vào các hướng đề xuất |
+|---|---|---|---|
+| Định vị "ngôi nhà mới", không phải "cơ sở chăm sóc" | ✓ | ✓ | Đặt tên và thiết kế hướng A, C, E theo phong cách hospitality, tránh hình ảnh "viện" |
+| **Chăm sóc tách riêng**, tính theo nhu cầu từng người | ✓ | ✓ (dịch vụ mua thêm) | Hợp với Việt Nam, nơi chưa có bảo hiểm chăm sóc dài hạn: phí vào cửa thấp cho người còn khỏe, doanh thu chăm sóc tăng dần theo nhu cầu |
+| Một hệ sinh thái cho cả chuỗi: khỏe → cần hỗ trợ → cần chăm sóc → cần y tế | ✓ | ✓ | Trùng với chuỗi A → D → E của Gakken; giữ khách hàng lâu hơn |
+| Đặt trong khu đô thị tổng hợp của chủ đầu tư | — | ✓ | Củng cố giả thuyết chính: Gakken vận hành, chủ đầu tư phát triển và bán |
+| Ăn uống và lifestyle là sản phẩm lõi | ✓ (240 sự kiện/năm) | ✓ | Gakken có lợi thế: bếp trung tâm Green Food và kho nội dung giáo dục |
+| Y tế qua liên kết (phòng khám, nhà thuốc), không tự xây bệnh viện | ✓ | ✓ (care centre) | Gakken Medical Pharmacy cộng với phòng khám đối tác tại TP.HCM |
+
+**Kết luận của mục này:** hai mô hình này không làm thay đổi thứ tự ưu tiên A → B → C. Chúng giúp định nghĩa lại **hướng E** thành một sản phẩm dài hạn rõ ràng hơn: *Senior Residence tích hợp trong khu đô thị tổng hợp* (xem mục 6).
+
+---
+
+## 6. Bảy hướng hợp tác đề xuất
 
 ### Hướng A (ưu tiên 1): "Gakken Memory & Learning Club", câu lạc bộ ban ngày chuyên phòng ngừa sa sút trí tuệ trong khu đô thị hạng sang
 
@@ -186,17 +241,28 @@ Tổng cộng MCS có 8 tòa nhà với 1.035 giường tại Trung Quốc. Doan
   - Chủ đầu tư có thêm dòng sản phẩm bán giá cao hơn nhờ chứng nhận của Gakken.
   - Gakken thu phí tư vấn thiết kế, phí chứng nhận và phí dịch vụ định kỳ.
   - Cư dân được "sống tại chỗ đến cuối đời" (aging in place).
-- **Đối tác gợi ý.** Các dự án căn hộ hạng sang **đang trong giai đoạn thiết kế** ở Thủ Thiêm, The Global City và Quận 7 cũ, ví dụ Masterise Homes, Sơn Kim Land (The Metropole Thủ Thiêm), Phú Mỹ Hưng. *Danh sách chỉ mang tính gợi ý, cần sàng lọc theo mục 8.*
+- **Đối tác gợi ý.** Các dự án căn hộ hạng sang **đang trong giai đoạn thiết kế** ở Thủ Thiêm, The Global City và Quận 7 cũ, ví dụ Masterise Homes, Sơn Kim Land (The Metropole Thủ Thiêm), Phú Mỹ Hưng. *Danh sách chỉ mang tính gợi ý, cần sàng lọc theo mục 9.*
 
 ### Hướng D: Nhà nhóm cho người sa sút trí tuệ (thế mạnh cốt lõi của MCS)
 
 - Mỗi đơn vị có 9–18 chỗ, chia thành các nhóm nhỏ ấm cúng như ở nhà. Đơn vị đặt trong khu biệt thự hoặc nhà phố, hoặc trong tổ hợp của hướng B. Gakken đã có mẫu tương tự: trung tâm sa sút trí tuệ 14 phòng tại Thiên Tân, liên doanh với tập đoàn bất động sản, giá từ 11.000 NDT/tháng.
 - Hướng này giữ khách hàng xuyên suốt chuỗi chăm sóc: phòng ngừa (A), sinh hoạt ban ngày (A, B), chăm sóc sa sút trí tuệ (D).
 
-### Hướng E: Chăm sóc nội trú và phục hồi chức năng tại các dự án tổ hợp hoặc nghỉ dưỡng
+### Hướng E (dài hạn): Senior Residence tích hợp trong khu đô thị tổng hợp, theo mẫu Palme Dor và Oasis
 
-- Gakken có thể áp dụng loại hình **nhà ở có dịch vụ 50–80 chỗ** của Cocofump, hoặc liên doanh với bệnh viện theo mẫu Nam Thông (đặt cạnh bệnh viện 650 giường). Địa điểm phù hợp: dự án gần bệnh viện quốc tế, hoặc khu nghỉ dưỡng ở Vũng Tàu cũ, Hồ Tràm, Cần Giờ.
-- Với các hệ sinh thái lớn như Vin New Horizon, Gakken nên đóng vai **nhà cung cấp chuyên môn** cho mảng sa sút trí tuệ, không nên cạnh tranh trực diện.
+- **Ý tưởng.** Chủ đầu tư phát triển một khối senior residence khoảng 100–400 căn *(giả định)* ngay trong khu đô thị tổng hợp của mình, theo cách Oasis nằm trong Century City. Gakken vận hành ba phần:
+  - **trung tâm chăm sóc** trong khuôn viên: lập kế hoạch chăm sóc (care plan) cho từng cư dân và tính phí theo mức sử dụng, như trung tâm Sowan ở Palme Dor;
+  - **nhà hàng dinh dưỡng**, theo chuẩn bếp trung tâm Green Food;
+  - **chương trình lifestyle**, dùng kho nội dung giáo dục của Gakken.
+
+  Phần y tế đi qua liên kết: Gakken Medical Pharmacy cùng một phòng khám hoặc bệnh viện đối tác gần dự án.
+- **Doanh thu, theo 5 dòng của Palme Dor.**
+  - Chủ đầu tư thu tiền bán hoặc cho thuê dài hạn căn hộ.
+  - Gakken thu phí quản lý và vận hành, tiền ăn uống, phí chăm sóc theo care plan và dịch vụ tùy chọn.
+- **Chuỗi chăm sóc liên tục.** Hướng E đặt ở trên cùng: câu lạc bộ ban ngày (A) → nhà nhóm sa sút trí tuệ (D) → senior residence tích hợp (E). Cư dân không phải rời hệ sinh thái khi sức khỏe thay đổi.
+- **Địa điểm.** Khu đô thị tổng hợp có sẵn trung tâm thương mại và bệnh viện quốc tế gần kề. Phương án khác là khu nghỉ dưỡng ở Vũng Tàu cũ hoặc Hồ Tràm, dành cho lưu trú ngắn ngày và phục hồi chức năng. Gakken có thể liên doanh với bệnh viện theo mẫu Nam Thông, tức đặt cạnh một bệnh viện 650 giường.
+- **Với các hệ sinh thái lớn như Vin New Horizon,** Gakken nên đóng vai **nhà cung cấp chuyên môn** cho mảng sa sút trí tuệ, không nên cạnh tranh trực diện.
+- **Vì sao để dài hạn.** Hướng này cần vốn xây dựng lớn và hành lang pháp lý cho nhà ở dành riêng người cao tuổi. Gakken cũng cần có dữ liệu vận hành từ A và D trước để thuyết phục chủ đầu tư.
 
 ### Hướng F: "Gakken Care Academy", học viện nhân lực chăm sóc chuẩn Nhật
 
@@ -217,13 +283,13 @@ Tổng cộng MCS có 8 tòa nhà với 1.035 giường tại Trung Quốc. Doan
 | B. Town Hub | Rất cao | Trung bình | Trung bình | Trung bình (2 loại giấy phép) | Kawasaki-Takatsu; SST | **2** |
 | C. Kinkyo Residence | Rất cao | Thấp (vốn của chủ đầu tư) | Theo tiến độ dự án | Thấp–trung bình | Tổ hợp trong đô thị | **3** |
 | D. Nhà nhóm sa sút trí tuệ | Cao | Trung bình | Trung bình | Cao | 359 nhà nhóm; trung tâm Thiên Tân | 4 |
-| E. Nội trú và phục hồi | Trung bình | Cao | Chậm | Cao | Liên doanh tại Trung Quốc | 6 |
+| E. Senior Residence tích hợp | Cao | Cao (chủ yếu vốn của chủ đầu tư) | Chậm (3–5 năm) | Cao | Cocofump; liên doanh tại Trung Quốc; mẫu ngoài: Palme Dor, Oasis | 6 (dài hạn) |
 | F. Care Academy | Trung bình | Thấp–trung bình | Nhanh | Thấp | Xuất bản y khoa; e-learning | Làm song song, mang tính nền tảng |
 | G. Truyền thông và bảo hiểm | Trung bình | Thấp | Nhanh | Trung bình (dữ liệu cá nhân) | Kentatsu.net | 5 |
 
 ---
 
-## 6. Mô hình kinh doanh minh họa cho hướng A
+## 7. Mô hình kinh doanh minh họa cho hướng A
 
 > **Lưu ý:** Mọi con số dưới đây là **giả định để minh họa cấu trúc**, cần kiểm chứng ở Giai đoạn 0.
 
@@ -241,14 +307,14 @@ Tổng cộng MCS có 8 tòa nhà với 1.035 giường tại Trung Quốc. Doan
 
 ---
 
-## 7. Lộ trình nghiên cứu và triển khai
+## 8. Lộ trình nghiên cứu và triển khai
 
 | Giai đoạn | Thời gian | Nội dung | Kết quả cần đạt |
 |---|---|---|---|
 | **0: Nghiên cứu** | 0–6 tháng | (1) Phỏng vấn nhóm và phỏng vấn sâu 30–40 gia đình thu nhập cao gồm cả hai thế hệ; (2) khảo sát sẵn lòng chi trả; (3) rà soát pháp lý; (4) sàng lọc 5–8 chủ đầu tư; (5) **theo dõi kết quả thí điểm của IES tại phường Xuân Hòa**; (6) mời chủ đầu tư tham quan Kawasaki-Takatsu, SST và cơ sở tại Trung Quốc | Báo cáo khả thi; điều khoản sơ bộ (term sheet) với 1–2 chủ đầu tư |
 | **1: Cơ sở mẫu** | 6–18 tháng | 1 câu lạc bộ theo hướng A; ra mắt Care Academy (hướng F) | Cơ sở mẫu hoạt động; bộ dữ liệu kết quả sau 6 tháng |
 | **2: Mạng lưới** | 18–36 tháng | 3–5 cơ sở; thí điểm Town Hub (B); hợp đồng Kinkyo (C) | Mạng lưới và sản phẩm đi kèm bất động sản |
-| **3: Hoàn thiện chuỗi chăm sóc** | Từ năm thứ 3 | Nhà nhóm (D), nội trú và phục hồi (E), truyền thông và bảo hiểm (G) | Chuỗi chăm sóc liên tục hoàn chỉnh |
+| **3: Hoàn thiện chuỗi chăm sóc** | Từ năm thứ 3 | Nhà nhóm (D), senior residence tích hợp theo mẫu Palme Dor/Oasis (E), truyền thông và bảo hiểm (G) | Chuỗi chăm sóc liên tục hoàn chỉnh |
 
 ### Câu hỏi nghiên cứu cho Giai đoạn 0
 
@@ -260,7 +326,7 @@ Tổng cộng MCS có 8 tòa nhà với 1.035 giường tại Trung Quốc. Doan
 
 ---
 
-## 8. Tiêu chí chọn đối tác bất động sản
+## 9. Tiêu chí chọn đối tác bất động sản
 
 | Tiêu chí | Trọng số gợi ý |
 |---|---|
@@ -273,7 +339,7 @@ Tổng cộng MCS có 8 tòa nhà với 1.035 giường tại Trung Quốc. Doan
 
 ---
 
-## 9. Pháp lý và rủi ro (cần tư vấn luật chuyên sâu)
+## 10. Pháp lý và rủi ro (cần tư vấn luật chuyên sâu)
 
 - **Loại hình cơ sở.** Cần xác định cơ sở được xếp vào loại nào: *cơ sở trợ giúp xã hội*, *cơ sở khám bệnh, chữa bệnh* (theo Luật Khám bệnh, chữa bệnh 2023), hay *cơ sở giáo dục hoặc dịch vụ*. Mỗi loại có thủ tục cấp phép riêng. Chức năng quản lý bảo trợ xã hội đã được sắp xếp lại giữa các bộ trong năm 2025 **[cần xác minh cơ quan cấp phép hiện hành]**.
 - **Đầu tư nước ngoài.** Cần kiểm tra điều kiện tiếp cận thị trường cho nhà đầu tư nước ngoài trong các ngành trợ giúp xã hội, y tế và giáo dục mầm non. Cấu trúc liên doanh cũng cần tính đến các yêu cầu này.
@@ -288,13 +354,15 @@ Tổng cộng MCS có 8 tòa nhà với 1.035 giường tại Trung Quốc. Doan
 
 ---
 
-## 10. Kết luận
+## 11. Kết luận
 
 Bài Thanh Niên cho thấy "viện dưỡng lão bán trú" được cả chính quyền cấp phường lẫn khu vực tư ủng hộ. Mô hình của IES định vị đại chúng và lấy số hóa làm điểm khác biệt. Hồ sơ doanh nghiệp cho thấy Gakken có những gì phân khúc thu nhập cao cần mà đối thủ chưa có:
 - **(1)** chuyên môn hàng đầu Nhật Bản về sa sút trí tuệ;
 - **(2)** nội dung giáo dục quy mô lớn;
 - **(3)** mô hình tổ hợp nhiều thế hệ trong đô thị;
 - **(4)** kinh nghiệm liên doanh với chủ đầu tư bất động sản và nhà nước ở nước ngoài.
+
+Palme Dor và Oasis cho thấy đích đến dài hạn: một hệ sinh thái sống trong khu đô thị, nơi chăm sóc được tính theo nhu cầu và hospitality là sản phẩm lõi. Gakken có thể đi tới đó từng bước, bắt đầu bằng câu lạc bộ ban ngày.
 
 Bước tiếp theo nên là Giai đoạn 0: một nghiên cứu khả thi trong 6 tháng, gồm nghiên cứu sơ cấp, theo dõi kết quả thí điểm tại phường Xuân Hòa, và mời 1–2 chủ đầu tư tiềm năng đi tham quan các cơ sở của Gakken tại Nhật và Trung Quốc.
 
@@ -305,6 +373,8 @@ Bước tiếp theo nên là Giai đoạn 0: một nghiên cứu khả thi trong
 **Nguồn sơ cấp do người dùng cung cấp**
 [1] Thúy Hằng (26/09/2026). *Người già TP.HCM sắp có thể "đi học bán trú"*. Báo Thanh Niên. https://thanhnien.vn/nguoi-gia-tphcm-sap-co-the-di-hoc-ban-tru-185260926134021773.htm (bản PDF)
 [G] Gakken Group. *Company Profile* (bản tiếng Anh, 25 trang; số liệu tài chính của năm tài chính kết thúc 30/09/2025; số liệu cơ sở tính đến 04/2024 và 03/2024; phụ lục *Overseas Business Development (MCS)*)
+
+[P] *Tóm tắt toàn bộ mô hình Palme Dor* (tài liệu người dùng cung cấp qua Google Drive), tổng hợp từ website chính thức Palme Dor Gakuenmae: https://palme-dor.com/ (các trang Concept, Facility, Rooms, FAQ, Company)
 
 **Nguồn thứ cấp**
 [3] Circa (2026). *Viện dưỡng lão ở HCM/HN: So sánh và chi phí 2026*. https://circa.vn/suc-khoe/vien-duong-lao-hcm-hn
@@ -320,7 +390,8 @@ Bước tiếp theo nên là Giai đoạn 0: một nghiên cứu khả thi trong
 [15] Vietnam Gakken Classroom. https://vn.gakken.com/
 [18] Đại sứ quán Nhật Bản tại Việt Nam. *Tuyển dụng ứng viên điều dưỡng và hộ lý theo EPA*. https://www.vn.emb-japan.go.jp/itpr_ja/20230411_EPA_vn.html
 [19] Tuổi Trẻ (02/08/2024). *TP.HCM có dịch vụ bán trú cho người cao tuổi*. https://tuoitre.vn/tp-hcm-co-dich-vu-ban-tru-cho-nguoi-cao-tuoi-20240802151855914.htm
+[O] Oasis Retirement Resort. https://oasisretirementresort.co.za/location/; Estate Living. *Oasis Retirement Resort*. https://www.estate-living.co.za/estates/oasis-retirement-resort/; Rabie Property Developers. https://www.rabie.co.za/tag/oasis-luxury-retirement-resort/; Harries Projects. *Oasis Luxury Retirement Resort*. https://harriesprojects.com/projects/oasis-luxury-retirement-resort/
 
 ---
 
-*Công bố về AI: Báo cáo do trợ lý AI (Claude Code) soạn trên cơ sở hai tài liệu người dùng cung cấp và tìm kiếm web ngày 26/09/2026. Các nhận định về đối tác cụ thể, số liệu tài chính minh họa, quy đổi tỷ giá và các mục đánh dấu [cần xác minh] cần được người phụ trách kiểm chứng trước khi dùng cho quyết định đầu tư.*
+*Công bố về AI: Báo cáo do trợ lý AI (Claude Code) soạn trên cơ sở ba tài liệu người dùng cung cấp và tìm kiếm web (26–28/09/2026). Các nhận định về đối tác cụ thể, số liệu tài chính minh họa, quy đổi tỷ giá và các mục đánh dấu [cần xác minh] cần được người phụ trách kiểm chứng trước khi dùng cho quyết định đầu tư.*
